@@ -1,0 +1,29 @@
+# third-party dependencies are downloaded by app/fetch_deps.sh, never committed
+app/libs/
+# build outputs
+app/build/
+*.apk
+*.apks
+*.aab
+*.idsig
+*.dex
+# signing material: keep your own key outside the repository
+*.jks
+*.keystore
+*.p12
+*.pk8
+*.pem
+password
+*password*
+*.key
+*.der
+keystore.properties
+signing*.properties
+local.properties
+# logs, device captures, IDE files
+*.log
+logcat*.txt
+dumpsys*.txt
+.idea/
+*.iml
+.DS_Store

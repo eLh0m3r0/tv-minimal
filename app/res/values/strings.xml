@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Minimal</string>
+    <string name="ct24">ČT24</string>
+    <string name="live">živě</string>
+    <string name="action_reel">Action Reel</string>
+    <string name="action_reel_sub">Red Bull TV</string>
+    <string name="launcher_settings">Launcher</string>
+    <string name="status_idle">%1$s · zastaveno</string>
+    <string name="status_wait_net">%1$s · čekám na síť…</string>
+    <string name="status_resolving">%1$s · načítám…</string>
+    <string name="status_playing">● ŽIVĚ · ČT24</string>
+    <string name="status_playing_ar">● Action Reel · Red Bull TV</string>
+    <string name="status_refreshing">● ŽIVĚ · ČT24 (obnova)</string>
+    <string name="status_retrying">%1$s · zkouším znovu…</string>
+    <string name="status_failed">%1$s · nedostupné</string>
+    <string name="fail_blocked">ČT24 je teď pro tento přehrávač blokované (např. kvůli právům). Přehrajte ji v iVysílání.</string>
+    <string name="fail_drm">Stream ČT24 je teď chráněný DRM. Přehrajte ji v iVysílání.</string>
+    <string name="fail_api">Služba ČT vrátila neočekávanou odpověď.</string>
+    <string name="fail_network">Bez připojení k internetu nebo služba ČT neodpovídá.</string>
+    <string name="fail_playback">Přehrávání ČT24 selhalo.</string>
+    <string name="fail_ar_network">Bez připojení k internetu nebo Red Bull TV neodpovídá.</string>
+    <string name="fail_ar_playback">Action Reel teď nejde přehrát. Red Bull mohl stream změnit, omezit nebo vypnout. Zkuste to později, ČT24 je v první dlaždici.</string>
+    <string name="retry">Zkusit znovu</string>
+    <string name="open_ivysilani">Otevřít iVysílání</string>
+    <string name="move_hint">Přesun: šipky · OK nebo Zpět = hotovo</string>
+    <string name="badge_new">NOVÉ</string>
+    <string name="menu_move">Přesunout</string>
+    <string name="menu_hide">Skrýt</string>
+    <string name="menu_info">Informace o aplikaci</string>
+    <string name="menu_cancel">Zrušit</string>
+    <string name="set_autoplay">Automatické ČT24: %1$s</string>
+    <string name="set_hidden">Skryté aplikace (%1$d)</string>
+    <string name="set_reset">Obnovit výchozí pořadí</string>
+    <string name="set_system">Nastavení systému</string>
+    <string name="set_about">O aplikaci</string>
+    <string name="mode_off">vypnuto</string>
+    <string name="mode_boot">jen po zapnutí</string>
+    <string name="mode_boot_wake">po zapnutí; po probuzení jen z launcheru</string>
+    <string name="mode_always">po zapnutí i každém probuzení</string>
+    <string name="reset_confirm">Vrátit výchozí pořadí a zobrazit skryté aplikace?</string>
+    <string name="yes">Ano</string>
+    <string name="about_text">TV Minimal %1$s\nBez reklam, doporučení a telemetrie.\nČT24: veřejný živý stream České televize, přehrávaný přímo z TV. Blokace a DRM se respektují.\nAction Reel: veřejný stream Red Bull TV (jen osobní použití), spouští se jen ručně.</string>
+    <string name="cannot_open">Aplikaci nelze otevřít</string>
+    <string name="no_hidden">Žádné skryté aplikace</string>
+    <string name="a11y_label">TV Minimal – tlačítko Home</string>
+    <string name="a11y_summary">Otevře TV Minimal po stisku Home místo Google TV.</string>
+    <string name="a11y_desc">Služba reaguje jen na tlačítko Home a na zobrazení plochy Google TV. Ostatní klávesy hned propouští, nic neukládá ani neodesílá a nečte obsah obrazovky.</string>
+    <string name="a11y_off">Tlačítko Home teď otevírá Google TV. Zapněte „TV Minimal – tlačítko Home“ v Přístupnosti.</string>
+    <string name="a11y_open">Otevřít Přístupnost</string>
+</resources>
